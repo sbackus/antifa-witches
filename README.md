@@ -82,7 +82,7 @@ If together you get 3 fails with **witch** or 3 fails with **antifa** you loose!
 ## PORTRAYING MAGIC
 Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, powerful,   
 It can take the form of a spell or a ritual: gather ingredients, call the ancestors, draw circles, light candles, anoint yourself, chant, etc.  
-You can also take a broader view of magic.  Cook dinner for your friends, ask your crush on a date, dance, flirt, live as if you're already free.  
+You can also take a broader view of magic:  Cook dinner for your friends, ask your crush on a date, dance, flirt, live as if you're already free.  
 Magic is not a means of fighting fascism.  
 It's what you're fighting for.  
 
