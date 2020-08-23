@@ -185,7 +185,7 @@ _Live an let live. Fairly take an fairly give_
 
 ### Bibliography: more wiccan and antifascist resources:  
 [Is it Ok to Hex a Natzi?](https://www.vice.com/en_us/article/j5eppk/is-it-ok-to-hex-a-nazi-how-anti-fascist-witches-are-mobilizing-under-trump)  
-[Eternal Fascism: Fourteen Ways of Looking at a Blackshirt By Umberto Eco](http://interglacial.com/pub/text/Umberto_Eco_-_Eternal_Fascism.html)
+[Eternal Fascism: Fourteen Ways of Looking at a Blackshirt By Umberto Eco](http://interglacial.com/pub/text/Umberto_Eco_-_Eternal_Fascism.html)  
 [Witchcraft, Gender, & Marxism | Philosophy Tube](https://www.youtube.com/watch?v=tmk47kh7fiE)  
 [The Philosophy of Antifa | Philosophy Tube](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)  
 [BURN IT ALL DOWN: AN ANTIFASCIST SPELLBOOK BY YERBAMALA COLLECTIVE](https://drive.google.com/file/d/0B2mqLg0R-Yc1VG41aWVvNm03Zzg/view)  
