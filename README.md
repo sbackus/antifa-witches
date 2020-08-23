@@ -147,29 +147,42 @@ Spread propoganda.
 Let the cops carry the guns and truncheons.  
 Gaslight everyone.   
 
-# SAFETY TOOLS
+# SAFETY
 Take care of each other.  
-These safety tools were adopted from [Golden Lasso Games](http://goldenlassogames.com/tools)
+These safety tools and best practices were adopted from [Golden Lasso Games](http://goldenlassogames.com/tools)
 
 Role-playing and story games offer a unique opportunity for creativity and collaboration. However, the improvisational nature of these games exposes players to the risk of discomfort and emotional distress.  Everyone has different boundaries and it’s impossible to know what will be upsetting to a fellow gamer. Best practices and safety tools are an important part of tabletop role-playing because they allow clear communication about what is, and what is not okay for everyone at the table.
 
 Remember, the most important part of safety tools is using them to make yourself heard. In other words, if there are safety tools being used at the table it is your responsibility to use them to communicate with your fellow players. They are there for a reason. It is your responsibility to utilize them to ensure your own well-being. Safety tools cannot work if players do not implement them.
+
+## BEST PRACTICES: Every Game, Every Time
+These tools should be used for every game session. You should use other safety tools as well, but these are general gaming best-practices more than “tools.”
 
 ### Pregame Agreements
 Step one of creating a game that everyone can enjoy is clearly communicating the tone of the game and agreeing on which safety tools you will be using for your game. Some games or groups may only need one tool in place, but if your game setting is especially emotional, violent or “close-to-home” for anyone at the table it may be a good idea to use multiple tools. Make sure everyone at the table is clear on how all of your safety tools work before each session.
 
 Agreeing on tone is an important step before starting your game too. Tone is defined as “the general character or attitude of a place, piece of writing, situation, etc.”  Before making characters it’s important that everyone know if it’s going to be a lighthearted romp with funny characters, an intense emotional exploration, a game focused on romance and seduction, or a battle-heavy dungeon crawl. A good way of defining tone is to describe it using movie ratings (G, PG-13, R) and to cite examples of popular media to make sure everyone is on the same page.
 
-
 ### Debriefs
 After you have finished a session of your game, it is important to check in with everyone to see how they are feeling. This can be done by the GM in private with each person for highly sensitive games, or just be a casual conversation with everyone after the game over some beers. It’s especially important that players touch base with one another after intense scenes or conflicts that happened during the game. This avoids the buildup of negative emotions between sessions and player misunderstandings.
-
 
 ### Open Door Policy
 An open door policy is exactly what it sounds like, players can leave the table or leave the game in a mature manner for any reason without being judged. Obviously, this policy doesn’t apply to players who leave the table in a combative or unreasonable way. This can apply to things as simple as restroom breaks, taking phone calls, or going to another room for an emotional cool-down. Everyone at the table is an adult and deserves the respect to take care of their own needs.
 
+## SAFETY TOOLS
+
 ### X-card
 The x-card is the simplest safety tool and also the easiest to implement. A card with a large X is placed on the table where everyone can reach it. If anyone feels uncomfortable, they simply touch the x-card. The GM and other players will change the scene immediately by skipping it or changing what is happening. The person who activated the x-card is not expected to explain their reasons. You can read more about the x-card at http://tinyurl.com/x-card-rpg. John Stavropoulos developed the x-card.
+
+### Script Change
+
+Script Change is a more complex tool than some of the others, but it is highly effective at giving everyone at the table more direct control of a scene when they feel uncomfortable. Three cards are placed in the middle of the table labeled “rewind”, “pause’, and “fast forward” that anyone at the table can tap to activate.
+
+* “Rewind” – this card takes the game back to before the uncomfortable content so things can be retconned
+* “Pause” – this card puts the scene on pause but doesn’t make any changes. Take a breath!
+* “Fast Forward” – this card skips play forward past the uncomfortable content so that it isn’t described
+
+Script Change was designed by Brie Sheldon and more information about it can be found at http://tinyurl.com/nphed7m
 
 
 # APPRECIATIONS, RESOURCES & BIBLIOGRAPHY
