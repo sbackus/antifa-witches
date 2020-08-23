@@ -4,7 +4,7 @@ A TTRPG about a coven of witches who are fighting fascism
 "Witchcraft is a name given to networks that have survived despite innumerable repressions. The history of fascism is not just the history of fascist repression. It is also the history of resistance. Witchcraft is the practice of building that resistance." [1](https://www.vice.com/en_us/article/j5eppk/is-it-ok-to-hex-a-nazi-how-anti-fascist-witches-are-mobilizing-under-trump)
 
 ## CONTENT WARNING
-Fascist ideology and tactics: violence, gaslighting, hatespeach,
+Fascist ideology and tactics: bigotry, violence, gaslighting, hatespeach
 
 # THE GAME
 You just found out NatziCon 2020 is coming to your town.  
@@ -14,12 +14,12 @@ But fuck that.  You've seen this shit before and you know what it is: another fu
 One: You're a witch.  You do magic and other queer stuff.  
 Two: You're willing to oppose fascism by any means necessary.    
 
-_& IT HARM FASCISTS, DO WHAT THOU WILT._
+_AND IT HARM FASCISTS, DO WHAT THOU WILT._
 
-# CHARACTER CREATION
+## CHARACTER CREATION
 Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxis  
 
-## DESCRIPTOR
+### DESCRIPTOR
 1. Punk  
 2. Goth  
 3. Hippy  
@@ -27,7 +27,7 @@ Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxi
 5. Queen  
 6. Bear  
 
-## MOTIVATION
+### MOTIVATION
 1. Idealist  
 2. Rebel  
 3. Leader  
@@ -35,7 +35,7 @@ Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxi
 5. Organizer   
 6. Protector
 
-## PREFERRED PRAXIS
+### PREFERRED PRAXIS
 1. Making beautiful art / Making provocative art
 2. Non-violent direct action / Violent direct action
 3. Journalism, truth telling & education / Espianoge & deplatforming
@@ -61,8 +61,8 @@ If it’s equal to or under the relevant stat, you succeed.
 If it’s over the stat, you fail.  
 If you’re using your Preferred Praxis or doing something related to your Motivation, roll 2D6 and pick the lowest.  
 
-# CHANGING STATS
-Move one point from **Antifa** to **Witch** When you cite wiccan lore (in rhyme) or whenever you raise an objection to a paticular antifascist tactic.  
+## CHANGING STATS
+Move one point from **Antifa** to **Witch** When you perform or participate in a ritual, cite wiccan lore or raise an objection to a paticular antifascist tactic.  
 Move one point from **Witch** to **Antifa** When you state a truth about how those fuckers are trying to discount, disdain, or criminalize who you are or who you love. Each person that says "fuck those guys" may also move a point from **Witch** to **Antifa**
 
 ## THE END
@@ -72,7 +72,7 @@ If your **witch** stat ever reaches 6, you've become soft.  You care more about 
 ## PORTRAYING MAGIC
 Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking,  
 It can take the form of a spell or a ritual: gather ingredients, call the ancestors, draw circles, light candles, anoint yourself, chant, etc.
-You can also take a broader view of magic.  Cook dinner for your friends, make love, dance, flirt, live as if you're already free 
+You can also take a broader view of magic.  Cook dinner for your friends, ask your crush on a date, dance, flirt, live as if you're already free 
 Magic isn't a means of fighting fascism.  
 It's what you're fighting for.  
 
@@ -93,7 +93,7 @@ They'll say that the witches are the real extremists.
 2: Greedy and Wicked.  
 3: Clueless and Exploitable.  
 4: A youtube celebrity.  
-5: An opportunist politician.  
+5: An opportunistic politician.  
 6: Ruthless and Corrupt.  
 
 ### NATZICON 2020 IS BEING HELD IN A
@@ -112,20 +112,22 @@ They'll say that the witches are the real extremists.
 6: Wilderness Retreat  
 
 ### PORTRAYING FASCISM
-Be a hateful bigoted fuck.  
+Be a hateful bigoted fuck secretly.  
 Always deny your fuckery.  
-Shroud hate in nationalism.   
+Shroud hate in nationalism and respectability.   
 Use dog wistles and secret symbols to gather your supporters.  
 Portray strength and unity.  
 Express contempt for the weak.  
-Apeal to traditionalism.  
+Appeal to traditionalism.  
 Hint at palingenetic rebirth.  
 Get the normies, centrists and conservatives on your side. `
 Fear difference.  
 Appeal to emotion, not logic.   
+Let the cops carry the guns and truncheons.  
 Gaslight everyone.   
 
 # SAFETY TOOLS
+Take care of each other.  
 These safety tools were adopted from [Golden Lasso Games](http://goldenlassogames.com/tools)
 
 Role-playing and story games offer a unique opportunity for creativity and collaboration. However, the improvisational nature of these games exposes players to the risk of discomfort and emotional distress.  Everyone has different boundaries and it’s impossible to know what will be upsetting to a fellow gamer. Best practices and safety tools are an important part of tabletop role-playing because they allow clear communication about what is, and what is not okay for everyone at the table.
@@ -150,18 +152,18 @@ The x-card is the simplest safety tool and also the easiest to implement. A card
 
 
 # APPRECIATIONS, RESOURCES & BIBLIOGRAPHY
-This was created as part of [The Antifa Game Jam](https://itch.io/jam/antifa-game-jam).  Big thanks to the organizers. 
+This was created as part of [The Antifa Game Jam](https://itch.io/jam/antifa-game-jam).  Big thanks to the organizers.  
 
 _Live an let live. Fairly take an fairly give_  
-Big thanks to these games and the people who made them:  
+
+### Big thanks to these games and the people who made them:  
 [Honey Heist: Grant Howitt](https://rowanrookanddecard.com/product/honey-heist/)  
 [Be Gay Do Crimes: Evan Saft](https://saftware.itch.io/be-gay-do-crimes)  
 [Kissing Comrades: Adira Slattery](https://itch.io/jam/antifa-game-jam/rate/415370)  
 [Teen Witch: Avery Alder](https://buriedwithoutceremony.com/variations-on-your-body)  
 [Misspent Youth: Robert Bohl](http://misspentyouth.robertbohl.com/sheets/)  
 
-
-Bibleography: other wiccan and antifascist resources:  
+### Bibliography: more wiccan and antifascist resources:  
 [Is it Ok to Hex a Natzi?](https://www.vice.com/en_us/article/j5eppk/is-it-ok-to-hex-a-nazi-how-anti-fascist-witches-are-mobilizing-under-trump)  
 [Eternal Fascism: Fourteen Ways of Looking at a Blackshirt By Umberto Eco](http://interglacial.com/pub/text/Umberto_Eco_-_Eternal_Fascism.html)
 [Witchcraft, Gender, & Marxism | Philosophy Tube](https://www.youtube.com/watch?v=tmk47kh7fiE)  
@@ -171,3 +173,5 @@ Bibleography: other wiccan and antifascist resources:
 [The gandhi trap](https://www.youtube.com/watch?v=6BB0Q1qHpAw)  
 [The Alt-Right Playbook](https://www.youtube.com/watch?v=4xGawJIseNY&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ)
 [Trumpism Is Just A Synonym For Fascism](https://www.youtube.com/watch?v=fIN8oxnw__I&t=629s)
+
+### Thanks to playtesters, proof readers and friends.
