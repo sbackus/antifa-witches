@@ -37,15 +37,15 @@ Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxi
 
 ## PREFERRED PRAXIS
 1. Making beautiful art / Making provocative art
-2. Radical Selfcare / Violent direct action
+2. Non-violent direct action / Violent direct action
 3. Journalism, truth telling & education / Espianoge & deplatforming
 4. Community building and outreach / Mass protest and general strike
-5. Benevolent witchcraft / Non-violent direct action
+5. Benevolent witchcraft / Malevolent witchcraft
 6. Blogging / Hacktivism
 
 Preferred Praxis come in pairs.  
-If **witch** is greater than 3 use the one on the left as your Preferred Praxis.  
-If **antifa** is greater than 3 use the one on the right as your Preferred Praxis.  
+If your **witch** stat is greater than 3 use the one on the left as your Preferred Praxis.  
+If your **antifa** stat is greater than 3 use the one on the right as your Preferred Praxis.  
 If they're both 3, you choose.  
 
 Write down names and pronouns for your witch.  
@@ -72,9 +72,9 @@ If your **witch** stat ever reaches 6, you've become soft.  You care more about 
 ## PORTRAYING MAGIC
 Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking,  
 It can take the form of a spell or a ritual: gather ingredients, call the ancestors, draw circles, light candles, anoint yourself, chant, etc.
-You can also take a broader view of magic.  Cook a dinner for your friends, make love, dance, flirt, live as if you're already free 
+You can also take a broader view of magic.  Cook dinner for your friends, make love, dance, flirt, live as if you're already free 
 Magic isn't a means of fighting fascism.  
-It's what you're fighting for. 
+It's what you're fighting for.  
 
 # FOR THE GM
 _YERBA MALA NUNCA MUERE_  
@@ -113,7 +113,7 @@ They'll say that the witches are the real extremists.
 
 ### PORTRAYING FASCISM
 Be a hateful bigoted fuck.  
-Deny it.  
+Always deny your fuckery.  
 Shroud hate in nationalism.   
 Use dog wistles and secret symbols to gather your supporters.  
 Portray strength and unity.  
@@ -147,15 +147,6 @@ An open door policy is exactly what it sounds like, players can leave the table 
 
 ### X-card
 The x-card is the simplest safety tool and also the easiest to implement. A card with a large X is placed on the table where everyone can reach it. If anyone feels uncomfortable, they simply touch the x-card. The GM and other players will change the scene immediately by skipping it or changing what is happening. The person who activated the x-card is not expected to explain their reasons. You can read more about the x-card at http://tinyurl.com/x-card-rpg. John Stavropoulos developed the x-card.
-
-
-
-### 
-
-Notes on definitions: This game benefits from a narrow definition of fascist and a broad definition of magic. 
-Not everyone who you dislike or disagree with is a fascist.  A fascist is someone doing fascism.  
-Repeating fascist rhetoric, empowering fascist movements, 
-Fascism is a bigoted ulta-nationalistic authoritarian political ideology.  
 
 
 # APPRECIATIONS, RESOURCES & BIBLIOGRAPHY
