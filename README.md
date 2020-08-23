@@ -75,14 +75,14 @@ Move one point from **Witch** to **Antifa** When you state a truth about how tho
 If your **antifa** stat ever reaches 6, you've gone too far.  The feds swoop in, accuse you of terrorism and haul you off to jail.  
 If your **witch** stat ever reaches 6, you've become soft.  You care more about comfort than justice.  You sell out.  
 
-Keep track of your success and failures as a group. 
-If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NatziCon is cancelled and you can go back to planning for the next solstace celebration.
+Keep track of your success and failures as a group.  
+If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NatziCon is cancelled and you can go back to planning for the next solstace celebration.  
 If together you get 3 fails with **witch** and 3 fails with **antifa** you loose! Despite your efforts NatziCon proceeds.  Even worse, the media paints you all as a bunch of dangerous radical weirdos and the natzis as the sympathetic victoms.  
 
 ## PORTRAYING MAGIC
-Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, powerful,  
-It can take the form of a spell or a ritual: gather ingredients, call the ancestors, draw circles, light candles, anoint yourself, chant, etc.
-You can also take a broader view of magic.  Cook dinner for your friends, ask your crush on a date, dance, flirt, live as if you're already free.
+Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, powerful,   
+It can take the form of a spell or a ritual: gather ingredients, call the ancestors, draw circles, light candles, anoint yourself, chant, etc.  
+You can also take a broader view of magic.  Cook dinner for your friends, ask your crush on a date, dance, flirt, live as if you're already free.  
 Magic is not a means of fighting fascism.  
 It's what you're fighting for.  
 
