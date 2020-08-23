@@ -36,12 +36,12 @@ Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxi
 6. Protector
 
 ### PREFERRED PRAXIS
-1. Making beautiful art / Making provocative art
-2. Non-violent direct action / Violent direct action
-3. Journalism, truth telling & education / Espianoge & deplatforming
+1. Making beautiful art / Making provocative art  
+2. Benevolent spell casting / Non-violent direct action  
+3. Magical rituals / Violent direct action
 4. Community building and outreach / Mass protest and general strike
-5. Benevolent witchcraft / Malevolent witchcraft
-6. Blogging / Hacktivism
+5. Journalism, truth telling & education / Espianoge & deplatforming
+6. Blogging / Hacktivism 
 
 Preferred Praxis come in pairs.  
 If your **witch** stat is greater than 3 use the one on the left as your Preferred Praxis.  
