@@ -77,7 +77,7 @@ If your **witch** stat ever reaches 6, you've become soft.  You care more about 
 
 Keep track of your success and failures as a group.  
 If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NatziCon is cancelled and you can go back to planning for the next solstace celebration.  
-If together you get 3 fails with **witch** and 3 fails with **antifa** you loose! Despite your efforts NatziCon proceeds.  Even worse, the media paints you all as a bunch of dangerous radical weirdos and the natzis as the sympathetic victoms.  
+If together you get 3 fails with **witch** or 3 fails with **antifa** you loose! Despite your efforts NatziCon proceeds.  Even worse, the press paints you as a bunch of dangerous radical weirdos and the natzis as the sympathetic victoms.  
 
 ## PORTRAYING MAGIC
 Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, powerful,   
