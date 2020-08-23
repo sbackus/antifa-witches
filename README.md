@@ -37,7 +37,7 @@ Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxi
 6. Protector
 
 ### PREFERRED PRAXIS
-1. Making beautiful art / Making provocative illegal art  
+1. Making beautiful art / Making illegal art  
 2. Magical rituals / Non-violent direct action  
 3. Benevolent spell casting / Violent direct action
 4. Community building and outreach / Mass protest and general strike
