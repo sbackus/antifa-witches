@@ -7,9 +7,9 @@ _"Witchcraft is a name given to networks that have survived despite innumerable 
 Fascist ideology and abusive tactics: bigotry, violence, gaslighting
 
 # THE GAME
-You belong to a coven of witches and you just found out NatziCon 2020 is coming to your town.  
+You belong to a coven of witches and you just found out NaziCon 2020 is coming to your town.  
 Of course that's not what they call it.  They've got some bullshit name like "Unite the Right" or "Free Speech Week".  
-But fuck that.  You've seen this shit before and you know what it is: another fucking NatziCon.  
+But fuck that.  You've seen this shit before and you know what it is: another fucking NaziCon.  
 
 One: You're a witch.  You do magic and other queer stuff.  
 Two: You're willing to oppose fascism by any means necessary.    
@@ -41,7 +41,7 @@ Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxi
 2. Magical rituals / Non-violent direct action  
 3. Benevolent spell casting / Violent direct action
 4. Community building and outreach / Mass protest and general strike
-5. Journalism, truth telling & education / Espianoge & deplatforming
+5. Journalism, truth telling & education / Espionage & deplatforming
 6. Blogging / Hacktivism 
 
 Write down names and pronouns for your witch.  
@@ -68,7 +68,7 @@ If it’s over the stat, you fail.
 If you’re using your **Preferred Praxis** or doing something related to your **Motivation**, roll 2D6 and pick the lowest.  
 
 ## CHANGING STATS
-Move one point from **Antifa** to **Witch** When you perform or participate in a ritual, cite wiccan lore or raise an objection to a paticular antifascist tactic.  
+Move one point from **Antifa** to **Witch** When you perform or participate in a ritual, cite wiccan lore or raise an objection to a particular antifascist tactic.  
 Move one point from **Witch** to **Antifa** When you state a truth about how those fuckers are trying to discount, disdain, or criminalize who you are or who you love. Each person that says "fuck those guys" may also move a point from **Witch** to **Antifa**
 
 ## THE END
@@ -76,8 +76,8 @@ If your **antifa** stat ever reaches 6, you've gone too far.  The feds swoop in,
 If your **witch** stat ever reaches 6, you've become soft.  You care more about comfort than justice.  You sell out.  
 
 Keep track of your success and failures as a group.  
-If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NatziCon is cancelled and you can go back to planning for the next solstace celebration.  
-If together you get 3 fails with **witch** or 3 fails with **antifa** you loose! Despite your efforts NatziCon proceeds.  Even worse, the press paints you as a bunch of dangerous radical weirdos and the natzis as the sympathetic victoms.  
+If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NaziCon is cancelled and you can go back to planning for the next solstice celebration.  
+If together you get 3 fails with **witch** or 3 fails with **antifa** you loose! Despite your efforts NaziCon proceeds.  Even worse, the press paints you as a bunch of dangerous radical weirdos and the nazis as the sympathetic victims.  
 
 ## PORTRAYING MAGIC
 Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, powerful,   
@@ -95,15 +95,15 @@ _A BAD WEED NEVER DIES_
 
 ## SETTING AND SCENARIO
 This isn't an Indiana Jones movie.  
-The natzis aren't wearing swastika or speaking german.  
+The nazis aren't wearing swastika or speaking german.  
 They're the Richard Spencer type: all-american, clean cut, suit wearing.  
 They will deny that they're the fascists.  
 They'll say that they just want to have their convention in peace.  
 They'll say that the witches are the real extremists.  
 
-NatziCon is in a week or two. 
+NaziCon is in a week or two. 
 Give the witches time to make magic, to talk with each other and plan.
-They might stop NatziCon before it even begins. That's great.
+They might stop NaziCon before it even begins. That's great.
 
 ### CONVENTION ORGANIZER
 1: Cunning and Sly  
@@ -132,8 +132,8 @@ They might stop NatziCon before it even begins. That's great.
 Be a hateful bigoted fuck.  
 Keep your hate a secret. Shroud it in nationalism and respectability.   
 Always deny your fuckery.  
-Use dog wistles and secret symbols to gather your supporters.  
-Project reasuring strength and unity.  
+Use dog whistles and secret symbols to gather your supporters.  
+Project reassuring strength and unity.  
 Express contempt for the weak.  
 Appeal to traditionalism.  
 Steal and distort the rhetoric of the left.  
@@ -143,7 +143,7 @@ Get the pundits to be your apologists.
 Fear difference.  
 Make "jokes" that punch down.  
 Appeal to emotion, not logic.   
-Spread propoganda.  
+Spread propaganda.  
 Let the cops carry the guns and truncheons.  
 Gaslight everyone.   
 
@@ -197,15 +197,15 @@ _Live an let live. Fairly take an fairly give_
 [Misspent Youth: Robert Bohl](http://misspentyouth.robertbohl.com/sheets/)  
 
 ### Bibliography: more wiccan and antifascist resources:  
-[Is it Ok to Hex a Natzi?](https://www.vice.com/en_us/article/j5eppk/is-it-ok-to-hex-a-nazi-how-anti-fascist-witches-are-mobilizing-under-trump)  
+[Is it Ok to Hex a Nazi?](https://www.vice.com/en_us/article/j5eppk/is-it-ok-to-hex-a-nazi-how-anti-fascist-witches-are-mobilizing-under-trump)  
 [Eternal Fascism: Fourteen Ways of Looking at a Blackshirt By Umberto Eco](http://interglacial.com/pub/text/Umberto_Eco_-_Eternal_Fascism.html)  
 [Witchcraft, Gender, & Marxism | Philosophy Tube](https://www.youtube.com/watch?v=tmk47kh7fiE)  
 [The Philosophy of Antifa | Philosophy Tube](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)  
 [BURN IT ALL DOWN: AN ANTIFASCIST SPELLBOOK BY YERBAMALA COLLECTIVE](https://drive.google.com/file/d/0B2mqLg0R-Yc1VG41aWVvNm03Zzg/view)  
 [The long rede](https://wicca.wikia.org/wiki/Long_wiccan_rede)  
 [The gandhi trap](https://www.youtube.com/watch?v=6BB0Q1qHpAw)  
-[The Alt-Right Playbook](https://www.youtube.com/watch?v=4xGawJIseNY&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ) 
+[The Alt-Right Playbook](https://www.youtube.com/watch?v=4xGawJIseNY&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ)  
 [Trumpism Is Just A Synonym For Fascism](https://www.youtube.com/watch?v=fIN8oxnw__I&t=629s)  
 [Fascism & Anti-Fascism: A Decolonial Perspective](https://warriorpublications.wordpress.com/2017/06/20/fascism-anti-fascism-a-decolonial-perspective/)  
-[The New Neo-Nazis: How Matthew Heimbach Is Building A Racist Network Across The US](https://itsgoingdown.org/the-new-neo-nazis-how-matthew-heimbach-is-building-a-racist-network-across-the-us/)
-[Calling them "alt-right" helps us fight them](https://threewayfight.blogspot.com/2016/11/calling-them-alt-right-helps-us-fight.html)
+[The New Neo-Nazis: How Matthew Heimbach Is Building A Racist Network Across The US](https://itsgoingdown.org/the-new-neo-nazis-how-matthew-heimbach-is-building-a-racist-network-across-the-us/)  
+[Calling them "alt-right" helps us fight them](https://threewayfight.blogspot.com/2016/11/calling-them-alt-right-helps-us-fight.html)  
