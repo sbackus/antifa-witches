@@ -53,8 +53,8 @@ _WE CALL UPON THE ANCESTORS, ALL THE REINXS FROM BELOW & BEYOND THE FALSE WALLS,
 
 ## STATS
 You have two stats. Each starts with 3 points.  
-Antifa: Use this stat whenever you're fighting fascism   
-Witch: Use this stat to perform magic or whenever you're trying to build something worth fighting for.  
+**Antifa**: Use this stat whenever you're fighting fascism   
+**Witch**: Use this stat to perform magic or whenever you're trying to build something worth fighting for.  
 
 Preferred Praxis come in pairs.  
 If your **witch** stat is greater than 3 use the one on the left as your Preferred Praxis.  
@@ -65,7 +65,7 @@ If they're both 3, you choose.
 When you act, and the outcome is in doubt, roll a D6.  
 If it’s equal to or under the relevant stat, you succeed.  
 If it’s over the stat, you fail.  
-If you’re using your Preferred Praxis or doing something related to your Motivation, roll 2D6 and pick the lowest.  
+If you’re using your **Preferred Praxis** or doing something related to your **Motivation**, roll 2D6 and pick the lowest.  
 
 ## CHANGING STATS
 Move one point from **Antifa** to **Witch** When you perform or participate in a ritual, cite wiccan lore or raise an objection to a paticular antifascist tactic.  
@@ -77,7 +77,7 @@ If your **witch** stat ever reaches 6, you've become soft.  You care more about 
 
 Keep track of your success and failures as a group. 
 If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NatziCon is cancelled and you can go back to planning for the next solstace celebration.
-If together you get 3 fails with **witch** and 3 fails with **antifa** you loose! Despite your efforst NatziCon proceeds.  Even worse, the media paints you all as a bunch of dangerous radical weirdos and the natzis as the sympathetic victoms.  
+If together you get 3 fails with **witch** and 3 fails with **antifa** you loose! Despite your efforts NatziCon proceeds.  Even worse, the media paints you all as a bunch of dangerous radical weirdos and the natzis as the sympathetic victoms.  
 
 ## PORTRAYING MAGIC
 Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, powerful,  
