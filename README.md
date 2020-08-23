@@ -98,7 +98,7 @@ This isn't an Indiana Jones movie.
 The natzis aren't wearing swastika or speaking german.  
 They're the Richard Spencer type: all-american, clean cut, suit wearing.  
 They will deny that they're the fascists.  
-They'll say that they just want to have their convention in pease.  
+They'll say that they just want to have their convention in peace.  
 They'll say that the witches are the real extremists.  
 
 NatziCon is in a week or two. 
