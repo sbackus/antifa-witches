@@ -8,7 +8,7 @@ Fascist ideology and tactics: violence, gaslighting, hatespeach,
 
 # THE GAME
 You just found out NatziCon 2020 is coming to your town.  
-Of course that's not what they call it.  They've got some bullshit name like "Unite the Right" "Free Speech Week" or "Trump Campaign Rally".  
+Of course that's not what they call it.  They've got some bullshit name like "Unite the Right" or "Free Speech Week".  
 But fuck that.  You've seen this shit before and you know what it is: another fucking NatziCon.  
 
 One: You're a witch.  You do magic and other queer stuff.  
