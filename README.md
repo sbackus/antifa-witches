@@ -14,6 +14,7 @@ But fuck that.  You've seen this shit before and you know what it is: another fu
 One: You're a witch.  You do magic and other queer stuff.  
 Two: You're willing to oppose fascism by any means necessary.    
 
+_These eight words the rede fulfill_
 _& IT HARM FASCISTS, DO WHAT THOU WILT._
 
 ## CHARACTER CREATION
@@ -36,24 +37,29 @@ Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxi
 6. Protector
 
 ### PREFERRED PRAXIS
-1. Making beautiful art / Making provocative art  
+1. Making beautiful art / Making provocative illegal art  
 2. Magical rituals / Non-violent direct action  
 3. Benevolent spell casting / Violent direct action
 4. Community building and outreach / Mass protest and general strike
 5. Journalism, truth telling & education / Espianoge & deplatforming
 6. Blogging / Hacktivism 
 
-Preferred Praxis come in pairs.  
-If your **witch** stat is greater than 3 use the one on the left as your Preferred Praxis.  
-If your **antifa** stat is greater than 3 use the one on the right as your Preferred Praxis.  
-If they're both 3, you choose.  
-
 Write down names and pronouns for your witch.  
+
+_WE CALL UPON THE ANCESTORS, MARSHA P. JOHNSON, WE INVOKE THEE._   
+_WE CALL UPON THE ANCESTORS, SYLVIA RIVERA, WE INVOKE THEE._   
+_WE CALL UPON THE ANCESTORS, SOPHIA ISABEL MARRERO CRUZ, WE INVOKE THEE._   
+_WE CALL UPON THE ANCESTORS, ALL THE REINXS FROM BELOW & BEYOND THE FALSE WALLS, COME FORTH, WE INVOKE THEE._   
 
 ## STATS
 You have two stats. Each starts with 3 points.  
 Antifa: Use this stat whenever you're fighting fascism   
 Witch: Use this stat to perform magic or whenever you're trying to build something worth fighting for.  
+
+Preferred Praxis come in pairs.  
+If your **witch** stat is greater than 3 use the one on the left as your Preferred Praxis.  
+If your **antifa** stat is greater than 3 use the one on the right as your Preferred Praxis.  
+If they're both 3, you choose.  
 
 ## ACTIONS
 When you act, and the outcome is in doubt, roll a D6.  
@@ -66,17 +72,22 @@ Move one point from **Antifa** to **Witch** When you perform or participate in a
 Move one point from **Witch** to **Antifa** When you state a truth about how those fuckers are trying to discount, disdain, or criminalize who you are or who you love. Each person that says "fuck those guys" may also move a point from **Witch** to **Antifa**
 
 ## THE END
-If your **antifa** stat ever reaches 6, you've gone too far.  The feds swoop in.  They accuse you of terrorism and haul you off to jail.  
+If your **antifa** stat ever reaches 6, you've gone too far.  The feds swoop in, accuse you of terrorism and haul you off to jail.  
 If your **witch** stat ever reaches 6, you've become soft.  You care more about comfort than justice.  You sell out.  
 
+Keep track of your success and failures as a group. 
+If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NatziCon is cancelled and you can go back to planning for the next solstace celebration.
+If together you get 3 fails with **witch** and 3 fails with **antifa** you loose! Despite your efforst NatziCon proceeds.  Even worse, the media paints you all as a bunch of dangerous radical weirdos and the natzis as the sympathetic victoms.  
+
 ## PORTRAYING MAGIC
+Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, powerful,  
+It can take the form of a spell or a ritual: gather ingredients, call the ancestors, draw circles, light candles, anoint yourself, chant, etc.
+You can also take a broader view of magic.  Cook dinner for your friends, ask your crush on a date, dance, flirt, live as if you're already free.
+Magic is not a means of fighting fascism.  
+It's what you're fighting for.  
+
 _Merry meet and merry part_  
 _bright the cheeks and warm the heart_  
-Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking,  
-It can take the form of a spell or a ritual: gather ingredients, call the ancestors, draw circles, light candles, anoint yourself, chant, etc.
-You can also take a broader view of magic.  Cook dinner for your friends, ask your crush on a date, dance, flirt, live as if you're already free 
-Magic isn't a means of fighting fascism.  
-It's what you're fighting for.  
 
 # FOR THE GM
 _YERBA MALA NUNCA MUERE_  
@@ -86,11 +97,11 @@ _A BAD WEED NEVER DIES_
 This isn't an Indiana Jones movie.  
 The natzis aren't wearing swastika or speaking german.  
 They're the Richard Spencer type: all-american, clean cut, suit wearing.  
-They will deny that they're the fascists. 
-They'll say that they just want to have their convention in pease
+They will deny that they're the fascists.  
+They'll say that they just want to have their convention in pease.  
 They'll say that the witches are the real extremists.  
 
-NatziCon should be happening in a week or two. 
+NatziCon is in a week or two. 
 Give the witches time to make magic, to talk with each other and plan.
 They might stop NatziCon before it even begins. That's great.
 
@@ -122,7 +133,7 @@ Be a hateful bigoted fuck.
 Keep your hate a secret. Shroud it in nationalism and respectability.   
 Always deny your fuckery.  
 Use dog wistles and secret symbols to gather your supporters.  
-Portray strength and unity.  
+Project reasuring strength and unity.  
 Express contempt for the weak.  
 Appeal to traditionalism.  
 Steal and distort the rhetoric of the left.  
