@@ -7,7 +7,7 @@ A TTRPG about a coven of witches who are fighting fascism
 Fascist ideology and abusive tactics: bigotry, violence, gaslighting
 
 # THE GAME
-You just found out NatziCon 2020 is coming to your town.  
+You belong to a coven of witches and you just found out NatziCon 2020 is coming to your town.  
 Of course that's not what they call it.  They've got some bullshit name like "Unite the Right" or "Free Speech Week".  
 But fuck that.  You've seen this shit before and you know what it is: another fucking NatziCon.  
 
