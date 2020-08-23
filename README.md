@@ -1,7 +1,7 @@
 # ANTIFA WITCHES
 A TTRPG about a coven of witches who are fighting fascism
 
-"Witchcraft is a name given to networks that have survived despite innumerable repressions. The history of fascism is not just the history of fascist repression. It is also the history of resistance. Witchcraft is the practice of building that resistance." [1](https://www.vice.com/en_us/article/j5eppk/is-it-ok-to-hex-a-nazi-how-anti-fascist-witches-are-mobilizing-under-trump)
+_"Witchcraft is a name given to networks that have survived despite innumerable repressions. The history of fascism is not just the history of fascist repression. It is also the history of resistance. Witchcraft is the practice of building that resistance." [1](https://www.vice.com/en_us/article/j5eppk/is-it-ok-to-hex-a-nazi-how-anti-fascist-witches-are-mobilizing-under-trump)_
 
 ## CONTENT WARNING
 Fascist ideology and abusive tactics: bigotry, violence, gaslighting
@@ -37,8 +37,8 @@ Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxi
 
 ### PREFERRED PRAXIS
 1. Making beautiful art / Making provocative art  
-2. Benevolent spell casting / Non-violent direct action  
-3. Magical rituals / Violent direct action
+2. Magical rituals / Non-violent direct action  
+3. Benevolent spell casting / Violent direct action
 4. Community building and outreach / Mass protest and general strike
 5. Journalism, truth telling & education / Espianoge & deplatforming
 6. Blogging / Hacktivism 
@@ -128,9 +128,11 @@ Appeal to traditionalism.
 Steal and distort the rhetoric of the left.  
 Hint at palingenetic rebirth.  
 Get the moderates to defend your rights. `
+Get the pundits to be your apologists.  
 Fear difference.  
 Make "jokes" that punch down.  
 Appeal to emotion, not logic.   
+Spread propoganda.  
 Let the cops carry the guns and truncheons.  
 Gaslight everyone.   
 
@@ -180,5 +182,3 @@ _Live an let live. Fairly take an fairly give_
 [The gandhi trap](https://www.youtube.com/watch?v=6BB0Q1qHpAw)  
 [The Alt-Right Playbook](https://www.youtube.com/watch?v=4xGawJIseNY&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ)
 [Trumpism Is Just A Synonym For Fascism](https://www.youtube.com/watch?v=fIN8oxnw__I&t=629s)
-
-### Thanks to playtesters, proof readers and friends.
