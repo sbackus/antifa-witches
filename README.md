@@ -105,13 +105,13 @@ NatziCon is in a week or two.
 Give the witches time to make magic, to talk with each other and plan.
 They might stop NatziCon before it even begins. That's great.
 
-### CONVENTION ORGANIZER
-1. Cunning and Sly.  
-2: Greedy and Wicked.  
-3: Clueless and Exploitable.  
-4: A youtube celebrity.  
-5: An opportunistic politician.  
-6: Ruthless and Corrupt.  
+### CONVENTION ORGANIZER  
+1. Cunning and Sly  
+2: Greedy and Wicked  
+3: Clueless and Exploitable  
+4: A youtube celebrity  
+5: An opportunistic politician  
+6: Ruthless and Corrupt  
 
 ### NATZICON 2020 IS BEING HELD IN A
 1: Creepy  
