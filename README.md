@@ -1,15 +1,15 @@
 # antifa-witches
 A TTRPG about a coven of witches who are fighting fascism
 
-NatziCon 2020 is coming to your town.
-Of course that's not what they call it.  They've got some bullshit name like "unite the right" or "Trump rally"
-But fuck that noise.  You've seen this shit before and you know what it is: another fucking NatziCon.
+You just found out NatziCon 2020 is coming to your town.  
+Of course that's not what they call it.  They've got some bullshit name like "Unite the Right" or "Trump Campaign Rally"
+But fuck that.  You've seen this shit before and you know what it is: another fucking NatziCon.
 
 One: You're a witch.  You do magic and other queer stuff.
-Two: You're willing to oppose Fascism by any means necessary  
+Two: You're willing to oppose fascism by any means necessary.   
 
 # CHARACTER CREATION
-Roll  3D6  to  determine  your  descriptor,  your ,  and  your  antifa  type
+Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxis
 
 ## DESCRIPTOR
 1. Punk  
@@ -29,7 +29,6 @@ Roll  3D6  to  determine  your  descriptor,  your ,  and  your  antifa  type
 
 
 ## PREFERRED PRAXIS
-## PREFERRED TACTICS
 1. Making beautiful art / Making provocative art
 2. Non-violent direct action / Violent direct action
 3. Journalism, truth telling & education / Espianoge & deplatforming
@@ -37,26 +36,32 @@ Roll  3D6  to  determine  your  descriptor,  your ,  and  your  antifa  type
 5. Benevolent witchcraft / Malevolent witchcraft
 6. Internet SJW / Hack their shit
 
-Preferred Tactics come in pairs.  If **witch** is greater than 3 use the one on the left as your Preferred Tactic.  If **antifa** is greater than 3 use the one on the right as your Preferred Tactic.  If they're both 3, you choose. 
+Preferred Tactics come in pairs.  If **witch** is greater than 3 use the one on the left as your Preferred Praxis.  If **antifa** is greater than 3 use the one on the right as your Preferred Praxis.  If they're both 3, you choose. 
 
 ## STATS
 You have two stats. Each starts with 3 points.  
 Antifa: Use whenever you're fighting fascism  
-Witch: Use when whenever you're trying to build something worth fighting for.  
+Witch: Use this stat to perform magic or whenever you're trying to build something worth fighting for.  
+
+Note: magic can be as literal or figuative as you want.  It might feel very cathartic
 
 ## ACTIONS
 When you act, and the outcomeis in doubt, roll a D6.  
 If it’s equal to or under the relevant stat, you succeed.  
 If it’s over the stat, you fail.  
-If you’re using your Preferred Tactic or doing something related to your Motivation, roll 2D6 and pick the lowest.  
-
-
+If you’re using your Preferred Praxis or doing something related to your Motivation, roll 2D6 and pick the lowest.  
 
 # CHANGING STATS
-Move one point from **Antifa** to **Witch** When you cite wiccan lore (in rhyme) or raise an objection to a paticular antifa tactic.  
+Move one point from **Antifa** to **Witch** When you cite wiccan lore with your coven or whenever you raise an objection to a paticular antifa tactic.  
+If the coven performs a spell or ritual together 
+
 Move one point from **Witch** to **Antifa** When you state a truth about how those fuckers are trying to discount, disdain, or criminalize who you are or who you love. The first person to say "fuck those guys" may also move a point from **Witch** to **Antifa**
 
 
+
+## THE END
+If your **antifa** stat ever reaches 6, you've gone too far.  The feds swoop in.  They accuse you of terrorism and haul you off to jail.  
+If your **witch** stat ever reaches 6, you've become soft.  You care more about comfort than justice.  You sell out.  
 
 
 
