@@ -1,5 +1,6 @@
 # ANTIFA WITCHES
 A TTRPG about a coven of witches who are fighting fascism
+By Sam Backus
 
 _"Witchcraft is a name given to networks that have survived despite innumerable repressions. The history of fascism is not just the history of fascist repression. It is also the history of resistance. Witchcraft is the practice of building that resistance." [1](https://www.vice.com/en_us/article/j5eppk/is-it-ok-to-hex-a-nazi-how-anti-fascist-witches-are-mobilizing-under-trump)_
 
