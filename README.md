@@ -14,8 +14,8 @@ But fuck that.  You've seen this shit before and you know what it is: another fu
 One: You're a witch.  You do magic and other queer stuff.  
 Two: You're willing to oppose fascism by any means necessary.    
 
-_These eight words the rede fulfill_
-_& IT HARM FASCISTS, DO WHAT THOU WILT._
+_These eight words the rede fulfill,_   
+_& IT HARM FASCISTS, DO WHAT THOU WILL._
 
 ## CHARACTER CREATION
 Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxis  
