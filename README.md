@@ -191,7 +191,7 @@ _Live an let live. Fairly take an fairly give_
 [BURN IT ALL DOWN: AN ANTIFASCIST SPELLBOOK BY YERBAMALA COLLECTIVE](https://drive.google.com/file/d/0B2mqLg0R-Yc1VG41aWVvNm03Zzg/view)  
 [The long rede](https://wicca.wikia.org/wiki/Long_wiccan_rede)  
 [The gandhi trap](https://www.youtube.com/watch?v=6BB0Q1qHpAw)  
-[The Alt-Right Playbook](https://www.youtube.com/watch?v=4xGawJIseNY&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ)
+[The Alt-Right Playbook](https://www.youtube.com/watch?v=4xGawJIseNY&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ) 
 [Trumpism Is Just A Synonym For Fascism](https://www.youtube.com/watch?v=fIN8oxnw__I&t=629s)  
 [Fascism & Anti-Fascism: A Decolonial Perspective](https://warriorpublications.wordpress.com/2017/06/20/fascism-anti-fascism-a-decolonial-perspective/)  
 [The New Neo-Nazis: How Matthew Heimbach Is Building A Racist Network Across The US](https://itsgoingdown.org/the-new-neo-nazis-how-matthew-heimbach-is-building-a-racist-network-across-the-us/)
