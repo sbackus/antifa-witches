@@ -236,3 +236,4 @@ _Live an let live. Fairly take an fairly give_
 [Fascism & Anti-Fascism: A Decolonial Perspective](https://warriorpublications.wordpress.com/2017/06/20/fascism-anti-fascism-a-decolonial-perspective/)  
 [The New Neo-Nazis: How Matthew Heimbach Is Building A Racist Network Across The US](https://itsgoingdown.org/the-new-neo-nazis-how-matthew-heimbach-is-building-a-racist-network-across-the-us/)  
 [Calling them "alt-right" helps us fight them](https://threewayfight.blogspot.com/2016/11/calling-them-alt-right-helps-us-fight.html)
+[The Love Potion](https://en.wikipedia.org/wiki/The_Love_Potion)
