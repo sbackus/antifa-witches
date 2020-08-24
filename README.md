@@ -5,11 +5,11 @@ By Sam Backus
 
 _"Witchcraft is a name given to networks that have survived despite innumerable repressions. The history of fascism is not just the history of fascist repression. It is also the history of resistance. Witchcraft is the practice of building that resistance." [1](https://www.vice.com/en_us/article/j5eppk/is-it-ok-to-hex-a-nazi-how-anti-fascist-witches-are-mobilizing-under-trump)_
 
+![Witch Pouring a Love Potion with text "Antifa Witches, Do Magic, Punch Nazis"](https://i.imgflip.com/4cgfvc.jpg)
+
 ## CONTENT WARNING
 
 Fascist ideology and abusive tactics: bigotry, violence, gaslighting
-
-![Witch Pouring a Love Potion with text "Antifa Witches, Do Magic, Punch Nazis"](https://i.imgflip.com/4cgfvc.jpg)
 
 # THE GAME
 
