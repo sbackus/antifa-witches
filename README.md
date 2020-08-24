@@ -9,6 +9,8 @@ _"Witchcraft is a name given to networks that have survived despite innumerable 
 
 Fascist ideology and abusive tactics: bigotry, violence, gaslighting
 
+![Witch Pouring a Love Potion with text "Antifa Witches, Do Magic, Punch Nazis"](https://imgflip.com/i/4cgfvc)
+
 # THE GAME
 
 You belong to a coven of witches and you just found out NaziCon 2020 is coming to your town.  
