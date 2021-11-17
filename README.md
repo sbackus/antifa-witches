@@ -54,7 +54,10 @@ Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxi
 5. Journalism, truth telling & education / Espionage & deplatforming
 6. Blogging / Hacktivism
 
+Think about what makes your witch vulnerable or different.
 Write down names and pronouns for your witch.
+* People of any gender can be witches.
+
 
 _WE CALL UPON THE ANCESTORS, MARSHA P. JOHNSON, WE INVOKE THEE._  
 _WE CALL UPON THE ANCESTORS, SYLVIA RIVERA, WE INVOKE THEE._  
@@ -72,32 +75,36 @@ If your **witch** stat is greater than 3 use the one on the left as your Preferr
 If your **antifa** stat is greater than 3 use the one on the right as your Preferred Praxis.  
 If they're both 3, you choose.
 
-## ACTIONS
+## PLAYING THE GAME
+Take turns describing scenes.  
+The GM describes the fascists conververging and gathering power.
+The Witches describe their lives, rituals and responses to the fascists.  
 
+## ACTIONS
 When you act, and the outcome is in doubt, roll a D6.  
-If it’s equal to or under the relevant stat, you succeed.  
+If it’s equal to or under the relevant stat (antifa/witch), you succeed.  
 If it’s over the stat, you fail.  
 If you’re using your **Preferred Praxis** or doing something related to your **Motivation**, roll 2D6 and pick the lowest.
 
 ## CHANGING STATS
 
-Move one point from **Antifa** to **Witch** When you perform or participate in a ritual, cite wiccan lore or raise an objection to a particular antifascist tactic.  
-Move one point from **Witch** to **Antifa** When you state a truth about how those fuckers are trying to discount, disdain, or criminalize who you are or who you love. Each person that says "fuck those guys" may also move a point from **Witch** to **Antifa**
+Move one point from **Antifa** to **Witch** When you perform or participate in a ritual, cite wiccan lore, or raise an objection to a particular antifascist tactic.  
+Move one point from **Witch** to **Antifa** When you state a truth about how those fuckers are trying to discount, disdain, or criminalize who you are or who you love. Each witch that says "fuck those guys" may also move a point from **Witch** to **Antifa**d
 
 ## THE END
 
 If your **antifa** stat ever reaches 6, you've gone too far. The feds swoop in, accuse you of terrorism and haul you off to jail.  
 If your **witch** stat ever reaches 6, you've become soft. You care more about comfort than justice. You sell out.
 
-Keep track of your success and failures as a group.  
-If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NaziCon is cancelled and you can go back to planning for the next solstice celebration.  
-If together you get 3 fails with **witch** or 3 fails with **antifa** you loose! Despite your efforts NaziCon proceeds. Even worse, the press paints you as a bunch of dangerous radical weirdos and the nazis as the sympathetic victims.
+Keep track of your successes and failures as a group.  
+If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NaziCon is cancelled and you can go back to planning for the next solstice celebration. Have one last scene where you each describe enjoying a beautiful solstace party. 
+If together you get 3 fails with **witch** or 3 fails with **antifa** you loose! Despite your efforts NaziCon proceeds. The GM gets one last scene to describe how the bad guys win.  
 
 ## PORTRAYING MAGIC
 
-Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, powerful,  
+Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, or powerful. 
 It can take the form of a spell or a ritual: gather ingredients, call the ancestors, draw circles, light candles, anoint yourself, chant, etc.  
-You can also take a broader view of magic: Cook dinner for your friends, ask your crush on a date, dance, flirt, live as if you're already free.  
+Magic can also be beautifully mundane: Cook dinner for your friends, ask your crush on a date, dance, flirt, live as if you're already free.  
 Magic is not a means of fighting fascism.  
 It's what you're fighting for.
 
@@ -113,7 +120,7 @@ _A BAD WEED NEVER DIES_
 
 This isn't an Indiana Jones movie.  
 The nazis aren't wearing swastika or speaking german.  
-They're the Richard Spencer type: all-american, clean cut, suit wearing.  
+They're the Richard Spencer and Tucker Carlson type: all-american, clean cut, suit wearing, logical, big boys.  
 They will deny that they're the fascists.  
 They'll say that they just want to have their convention in peace.  
 They'll say that the witches are the real extremists.
@@ -122,17 +129,38 @@ NaziCon is in a week or two.
 Give the witches time to make magic, to talk with each other and plan.
 They might stop NaziCon before it even begins. That's great.
 
-### CONVENTION ORGANIZER
+### CONVENTION ORGANIZERS
+Roll for as many of these idiots as you need. 
 
+#### FIRST NAME
+1: Tucker
+2: Richard
+3: Milo
+4: Jordan
+5: Ben
+6: Gavin
+7: Jason
+8: Candace
+
+#### LAST NAME
+1: McGinis
+2: Peterton
+3: Yonopolis
+4: Carson
+5: Omens
+6: Shapro
+7: Kissler
+8: Spemser 
+
+#### STYLE
 1: Cunning and Sly  
 2: Greedy and Wicked  
 3: Clueless and Exploitable  
-4: A youtube celebrity  
-5: An opportunistic politician  
+4: Media Savy and Charismatic  
+5: Strong and Stupid  
 6: Ruthless and Corrupt
 
 ### NATZICON 2020 IS BEING HELD IN A
-
 1: Creepy  
 2: Busy  
 3: Run-Down  
@@ -158,14 +186,14 @@ Express contempt for the weak.
 Appeal to traditionalism.  
 Steal and distort the rhetoric of the left.  
 Hint at palingenetic rebirth.  
-Get the moderates to defend your rights. `
-Get the pundits to be your apologists.  
 Fear difference.  
 Make "jokes" that punch down.  
 Appeal to emotion, not logic.  
 Spread propaganda.  
-Let the cops carry the guns and truncheons.  
 Gaslight everyone.
+Get the moderates to defend your rights. `
+Get the pundits to be your apologists.  
+Let the cops carry the guns and truncheons.  
 
 # SAFETY
 
