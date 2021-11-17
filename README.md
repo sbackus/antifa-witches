@@ -77,7 +77,7 @@ If they're both 3, you choose.
 
 ## PLAYING THE GAME
 Take turns describing scenes.  
-The GM describes the fascists conververging and gathering power.
+The GM describes the fascists conververging, recruiting and gathering power.  
 The Witches describe their lives, conversations, rituals and responses to the fascists.  
 
 ## ACTIONS
@@ -196,24 +196,25 @@ Make "jokes" that punch down.
 Claim to be logical.  
 Dismiss anything emotional, introspective, or tender-minded.
 Never play defense. 
-Project your darkest desires and hypocracy onto the witches.  
+Project your darkest desires and worst hypocracy onto the witches.  
 Spread propaganda.  
 Gaslight everyone.  
 Be an "alpha", not a "cucK"  
 Get the moderates to defend your rights.  `
-Get the pundits to be your apologists.   
+Have the pundits to be your apologists.   
 Let the cops carry the guns and truncheons.  
 Kill the antifascists if you can get away with it.  
-Disavow violence.  
+Always disavow.  
 
 # SAFETY
-
-Take care of yourself. Take care of each other.  
+ 
 These safety tools and best practices were adopted from [Golden Lasso Games](http://goldenlassogames.com/tools)
 
 Role-playing and story games offer a unique opportunity for creativity and collaboration. However, the improvisational nature of these games exposes players to the risk of discomfort and emotional distress. Everyone has different boundaries and it’s impossible to know what will be upsetting to a fellow gamer. Best practices and safety tools are an important part of tabletop role-playing because they allow clear communication about what is, and what is not okay for everyone at the table.
 
 Remember, the most important part of safety tools is using them to make yourself heard. In other words, if there are safety tools being used at the table it is your responsibility to use them to communicate with your fellow players. They are there for a reason. It is your responsibility to utilize them to ensure your own well-being. Safety tools cannot work if players do not implement them.
+
+Take care of yourself. Take care of each other. 
 
 ## BEST PRACTICES: Every Game, Every Time
 
