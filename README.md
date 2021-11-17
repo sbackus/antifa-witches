@@ -9,7 +9,7 @@ _"Witchcraft is a name given to networks that have survived despite innumerable 
 
 ## CONTENT WARNING
 
-Fascist ideology and abusive tactics: bigotry, violence, gaslighting
+Fascist ideology and tactics: bigotry, violence, gaslighting
 
 # THE GAME
 
@@ -58,14 +58,12 @@ Think about what makes your witch vulnerable or different.
 Write down names and pronouns for your witch.
 * People of any gender can be witches.
 
-
 _WE CALL UPON THE ANCESTORS, MARSHA P. JOHNSON, WE INVOKE THEE._  
 _WE CALL UPON THE ANCESTORS, SYLVIA RIVERA, WE INVOKE THEE._  
 _WE CALL UPON THE ANCESTORS, SOPHIA ISABEL MARRERO CRUZ, WE INVOKE THEE._  
 _WE CALL UPON THE ANCESTORS, ALL THE REINXS FROM BELOW & BEYOND THE FALSE WALLS, COME FORTH, WE INVOKE THEE._
 
-## STATS
-
+## STATS  
 You have two stats. Each starts with 3 points.  
 **Antifa**: Use this stat whenever you're fighting fascism  
 **Witch**: Use this stat to perform magic or whenever you're trying to build something worth fighting for.
@@ -75,10 +73,12 @@ If your **witch** stat is greater than 3 use the one on the left as your Preferr
 If your **antifa** stat is greater than 3 use the one on the right as your Preferred Praxis.  
 If they're both 3, you choose.
 
+_Mind the threefold law ye should: Three times bad an three times good._  
+
 ## PLAYING THE GAME
 Take turns describing scenes.  
 The GM describes the fascists conververging, recruiting and gathering power.  
-The Witches describe their lives, conversations, rituals and responses to the fascists.  
+The Witches describe their lives, conversations, rituals and their responses to the fascists.  
 
 ## ACTIONS
 When you act, and the outcome is in doubt, roll a D6.  
@@ -91,6 +91,8 @@ If you’re using your **Preferred Praxis** or doing something related to your *
 Move one point from **Antifa** to **Witch** When you cite wiccan lore, values, or tradition, or when you raise a moral objection to a particular antifascist tactic.  
 Move one point from **Witch** to **Antifa** When you state a truth about how those fuckers are trying to discount, disdain, or criminalize who you are or who you love. Each witch that says "fuck those guys" may also move a point from **Witch** to **Antifa**
 
+_To bind the spell well every time, let the spell be said in rhyme._
+
 ## THE END
 
 If your **antifa** stat ever reaches 6, you've gone too far. The feds swoop in, accuse you of terrorism and haul you off to jail.  
@@ -101,7 +103,6 @@ If together you get 3 successes with **witch** and 3 successes with **antifa** y
 If together you get 3 fails with **witch** or 3 fails with **antifa** you loose! Despite your efforts NaziCon proceeds. The GM gets one last scene to describe how the bad guys win.  
 
 ## PORTRAYING MAGIC
-
 Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, or powerful. 
 It can take the form of a spell or a ritual: gather ingredients, call the ancestors, draw circles, light candles, anoint yourself, chant, etc.  
 Magic can also be beautifully mundane: Cook dinner for your friends, ask your crush on a date, dance, flirt, live as if you're already free.  
@@ -114,7 +115,7 @@ _bright the cheeks and warm the heart_
 # FOR THE GM
 
 _YERBA MALA NUNCA MUERE_  
-_A BAD WEED NEVER DIES_
+_A BAD WEED NEVER DIES_  
 
 ## SETTING AND SCENARIO
 
@@ -129,7 +130,12 @@ NaziCon is in a week or two.
 Give the witches time to make magic, to talk with each other and plan.  
 They might stop NaziCon before it even begins. That's great.  
 
-### CONVENTION ORGANIZERS
+### CONVENTION ORGANIZERS  
+_Double double, toil and trouble_   
+_Fire burn and cauldron bubble_  
+_By the pricking of my thumbs_  
+_Something wicked this way comes_  
+
 Roll for as many of these idiots as you need. 
 
 #### FIRST NAME
@@ -177,7 +183,7 @@ Roll for as many of these idiots as you need.
 
 ### PORTRAYING FASCISM
 
-Be a hateful, bigoted, racist fuck.  
+Be a hateful, bigoted, racist, fuck.    
 Keep your hate a secret. Shroud it in nationalism, respectability and traditionalism.  
 Always deny your fuckery.  
 Use dog whistles and secret symbols to gather your supporters.  
@@ -194,6 +200,7 @@ Fear and punish difference and nonconformity.
 Obsess over other people's sexuality.  
 Make "jokes" that punch down.  
 Claim to be logical.  
+Certainty sells, honesty smells. 
 Dismiss anything emotional, introspective, or tender-minded.
 Never play defense. 
 Project your darkest desires and worst hypocracy onto the witches.  
@@ -204,9 +211,10 @@ Get the moderates to defend your rights.  `
 Have the pundits to be your apologists.   
 Let the cops carry the guns and truncheons.  
 Kill the antifascists if you can get away with it.  
-Always disavow.  
+Obtain power using any means necessary.  
 
 # SAFETY
+_Soft of eye an light of touch; speak little, listen much._  
  
 These safety tools and best practices were adopted from [Golden Lasso Games](http://goldenlassogames.com/tools)
 
