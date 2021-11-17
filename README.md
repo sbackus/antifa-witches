@@ -21,7 +21,7 @@ One: You're a witch. You do magic and other queer stuff.
 Two: You're willing to oppose fascism by any means necessary.
 
 _These eight words the rede fulfill,_  
-_& IT HARM FASCISTS, DO WHAT THOU WILL._
+_& IT HARM FASCISTS, DO WHAT THOU WILL._ [5](https://drive.google.com/file/d/0B2mqLg0R-Yc1VG41aWVvNm03Zzg/view)
 
 ## CHARACTER CREATION
 
@@ -61,7 +61,7 @@ Write down names and pronouns for your witch.
 _WE CALL UPON THE ANCESTORS, MARSHA P. JOHNSON, WE INVOKE THEE._  
 _WE CALL UPON THE ANCESTORS, SYLVIA RIVERA, WE INVOKE THEE._  
 _WE CALL UPON THE ANCESTORS, SOPHIA ISABEL MARRERO CRUZ, WE INVOKE THEE._  
-_WE CALL UPON THE ANCESTORS, ALL THE REINXS FROM BELOW & BEYOND THE FALSE WALLS, COME FORTH, WE INVOKE THEE._
+_WE CALL UPON THE ANCESTORS, ALL THE REINXS FROM BELOW & BEYOND THE FALSE WALLS, COME FORTH, WE INVOKE THEE._ [5](https://drive.google.com/file/d/0B2mqLg0R-Yc1VG41aWVvNm03Zzg/view)
 
 ## STATS  
 You have two stats. Each starts with 3 points.  
@@ -80,6 +80,9 @@ Take turns describing scenes.
 The GM describes the fascists conververging, recruiting and gathering power.  
 The Witches describe their lives, conversations, rituals and their responses to the fascists.  
 
+WE THE QUEEROS THE NIGHTMARE POC THE WITCH HEALERS
+WE KNOW YR FEAR & IT WILL NOT BE ENOUGH TO PROTECT YOU
+
 ## ACTIONS
 When you act, and the outcome is in doubt, roll a D6.  
 If it’s equal to or under the relevant stat (antifa/witch), you succeed.  
@@ -91,7 +94,7 @@ If you’re using your **Preferred Praxis** or doing something related to your *
 Move one point from **Antifa** to **Witch** When you cite wiccan lore, values, or tradition, or when you raise a moral objection to a particular antifascist tactic.  
 Move one point from **Witch** to **Antifa** When you state a truth about how those fuckers are trying to discount, disdain, or criminalize who you are or who you love. Each witch that says "fuck those guys" may also move a point from **Witch** to **Antifa**
 
-_To bind the spell well every time, let the spell be said in rhyme._
+_To bind the spell well every time, let the spell be said in rhyme._ [6](https://wicca.wikia.org/wiki/Long_wiccan_rede)  
 
 ## THE END
 
@@ -102,6 +105,9 @@ Keep track of your successes and failures as a group.
 If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NaziCon is cancelled and you can go back to planning for the next solstice celebration. Have one last scene where you each describe enjoying a beautiful solstace party.  
 If together you get 3 fails with **witch** or 3 fails with **antifa** you loose! Despite your efforts NaziCon proceeds. The GM gets one last scene to describe how the bad guys win.  
 
+_THE SKIES THE EARTH THE WATERS SEE_.  
+_THE FASCISTS SILENT THE PRISONS FREE_.  [5](https://drive.google.com/file/d/0B2mqLg0R-Yc1VG41aWVvNm03Zzg/view)
+
 ## PORTRAYING MAGIC
 Magic can be anything beautiful, indulgent, sensual, intimate, loving, healing, transformative, meaningful, truth-seeking, mysterious, or powerful. 
 It can take the form of a spell or a ritual: gather ingredients, call the ancestors, draw circles, light candles, anoint yourself, chant, etc.  
@@ -110,12 +116,12 @@ Magic is not a means of fighting fascism.
 It's what you're fighting for.
 
 _Merry meet and merry part_  
-_bright the cheeks and warm the heart_
+_bright the cheeks and warm the heart_  [6](https://wicca.wikia.org/wiki/Long_wiccan_rede)
 
 # FOR THE GM
 
 _YERBA MALA NUNCA MUERE_  
-_A BAD WEED NEVER DIES_  
+_A BAD WEED NEVER DIES_  [5](https://drive.google.com/file/d/0B2mqLg0R-Yc1VG41aWVvNm03Zzg/view)
 
 ## SETTING AND SCENARIO
 
@@ -214,7 +220,7 @@ Kill the antifascists if you can get away with it.
 Obtain power using any means necessary.  
 
 # SAFETY
-_Soft of eye an light of touch; speak little, listen much._  
+_Soft of eye an light of touch; speak little, listen much._  [6](https://wicca.wikia.org/wiki/Long_wiccan_rede)
  
 These safety tools and best practices were adopted from [Golden Lasso Games](http://goldenlassogames.com/tools)
 
