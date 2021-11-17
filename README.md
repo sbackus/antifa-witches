@@ -25,7 +25,7 @@ _& IT HARM FASCISTS, DO WHAT THOU WILL._
 
 ## CHARACTER CREATION
 
-Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxis
+Roll 3D6 (or choose one of each) to determine your Descriptor, your Motivation, and your Preferred Praxis
 
 ### DESCRIPTOR
 
@@ -48,11 +48,11 @@ Roll 3D6 to determine your Descriptor, your Motivation, and your Preferred Praxi
 ### PREFERRED PRAXIS
 
 1. Making beautiful art / Making illegal art
-2. Magical rituals / Non-violent direct action
-3. Benevolent spell casting / Violent direct action
-4. Community building and outreach / Mass protest and general strike
-5. Journalism, truth telling & education / Espionage & deplatforming
-6. Blogging / Hacktivism
+2. Cooking, Baking and potion making / Demolition & Sabatoge
+3. Ritual, and Fotune Telling / Non-violent direct action & truth-telling
+4. Dance, Fashion and Drag / Spying & Espionage
+5. Music and Story telling  / Deplatforming, Distraction and Disinformation 
+6. Sexuality and the Great Rite / Violent direct action
 
 Think about what makes your witch vulnerable or different.
 Write down names and pronouns for your witch.
@@ -78,7 +78,7 @@ If they're both 3, you choose.
 ## PLAYING THE GAME
 Take turns describing scenes.  
 The GM describes the fascists conververging and gathering power.
-The Witches describe their lives, rituals and responses to the fascists.  
+The Witches describe their lives, conversations, rituals and responses to the fascists.  
 
 ## ACTIONS
 When you act, and the outcome is in doubt, roll a D6.  
@@ -88,8 +88,8 @@ If you’re using your **Preferred Praxis** or doing something related to your *
 
 ## CHANGING STATS
 
-Move one point from **Antifa** to **Witch** When you perform or participate in a ritual, cite wiccan lore, or raise an objection to a particular antifascist tactic.  
-Move one point from **Witch** to **Antifa** When you state a truth about how those fuckers are trying to discount, disdain, or criminalize who you are or who you love. Each witch that says "fuck those guys" may also move a point from **Witch** to **Antifa**d
+Move one point from **Antifa** to **Witch** When you cite wiccan lore, values, or tradition, or when you raise a moral objection to a particular antifascist tactic.  
+Move one point from **Witch** to **Antifa** When you state a truth about how those fuckers are trying to discount, disdain, or criminalize who you are or who you love. Each witch that says "fuck those guys" may also move a point from **Witch** to **Antifa**
 
 ## THE END
 
@@ -97,7 +97,7 @@ If your **antifa** stat ever reaches 6, you've gone too far. The feds swoop in, 
 If your **witch** stat ever reaches 6, you've become soft. You care more about comfort than justice. You sell out.
 
 Keep track of your successes and failures as a group.  
-If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NaziCon is cancelled and you can go back to planning for the next solstice celebration. Have one last scene where you each describe enjoying a beautiful solstace party. 
+If together you get 3 successes with **witch** and 3 successes with **antifa** you win! NaziCon is cancelled and you can go back to planning for the next solstice celebration. Have one last scene where you each describe enjoying a beautiful solstace party.  
 If together you get 3 fails with **witch** or 3 fails with **antifa** you loose! Despite your efforts NaziCon proceeds. The GM gets one last scene to describe how the bad guys win.  
 
 ## PORTRAYING MAGIC
@@ -123,34 +123,34 @@ The nazis aren't wearing swastika or speaking german.
 They're the Richard Spencer and Tucker Carlson type: all-american, clean cut, suit wearing, logical, big boys.  
 They will deny that they're the fascists.  
 They'll say that they just want to have their convention in peace.  
-They'll say that the witches are the real extremists.
+They'll say that the witches are the real extremists.  
 
-NaziCon is in a week or two.
-Give the witches time to make magic, to talk with each other and plan.
-They might stop NaziCon before it even begins. That's great.
+NaziCon is in a week or two.  
+Give the witches time to make magic, to talk with each other and plan.  
+They might stop NaziCon before it even begins. That's great.  
 
 ### CONVENTION ORGANIZERS
 Roll for as many of these idiots as you need. 
 
 #### FIRST NAME
-1: Tucker
-2: Richard
-3: Milo
-4: Jordan
-5: Ben
-6: Gavin
-7: Jason
-8: Candace
+1: Tucker  
+2: Richard  
+3: Milo  
+4: Jordan  
+5: Ben  
+6: Gavin  
+7: Jason  
+8: Candace  
 
 #### LAST NAME
-1: McGinis
-2: Peterton
-3: Yonopolis
-4: Carson
-5: Omens
-6: Shapro
-7: Kissler
-8: Spemser 
+1: McGinis  
+2: Peterton  
+3: Yonopolis  
+4: Carson  
+5: Omens  
+6: Shapro  
+7: Kissler  
+8: Spemser  
 
 #### STYLE
 1: Cunning and Sly  
@@ -158,7 +158,7 @@ Roll for as many of these idiots as you need.
 3: Clueless and Exploitable  
 4: Media Savy and Charismatic  
 5: Strong and Stupid  
-6: Ruthless and Corrupt
+6: Ruthless and Corrupt  
 
 ### NATZICON 2020 IS BEING HELD IN A
 1: Creepy  
@@ -177,23 +177,34 @@ Roll for as many of these idiots as you need.
 
 ### PORTRAYING FASCISM
 
-Be a hateful bigoted fuck.  
-Keep your hate a secret. Shroud it in nationalism and respectability.  
+Be a hateful, bigoted, racist fuck.  
+Keep your hate a secret. Shroud it in nationalism, respectability and traditionalism.  
 Always deny your fuckery.  
 Use dog whistles and secret symbols to gather your supporters.  
 Project reassuring strength and unity.  
 Express contempt for the weak.  
-Appeal to traditionalism.  
-Steal and distort the rhetoric of the left.  
-Hint at palingenetic rebirth.  
-Fear difference.  
+Maintain power heirarchies.  
+Remember equality is a scam and life is permanant warfare.  
+Steal and distort the rhetoric of the witches.  
+Hint at glorious palingenetic rebirth.  
+Conform to conventional values.  
+Follow powerful authoritarians.
+Think in rigid categories.
+Fear and punish difference and nonconformity.  
+Obsess over other people's sexuality.  
 Make "jokes" that punch down.  
-Appeal to emotion, not logic.  
+Claim to be logical.  
+Dismiss anything emotional, introspective, or tender-minded.
+Never play defense. 
+Project your darkest desires and hypocracy onto the witches.  
 Spread propaganda.  
-Gaslight everyone.
-Get the moderates to defend your rights. `
-Get the pundits to be your apologists.  
+Gaslight everyone.  
+Be an "alpha", not a "cucK"  
+Get the moderates to defend your rights.  `
+Get the pundits to be your apologists.   
 Let the cops carry the guns and truncheons.  
+Kill the antifascists if you can get away with it.  
+Disavow violence.  
 
 # SAFETY
 
@@ -252,7 +263,7 @@ _Live an let live. Fairly take an fairly give_
 [Teen Witch: Avery Alder](https://buriedwithoutceremony.com/variations-on-your-body)  
 [Misspent Youth: Robert Bohl](http://misspentyouth.robertbohl.com/sheets/)
 
-### Bibliography: more wiccan and antifascist resources:
+### Bibliography- wiccan and antifascist resources:
 
 [Is it Ok to Hex a Nazi?](https://www.vice.com/en_us/article/j5eppk/is-it-ok-to-hex-a-nazi-how-anti-fascist-witches-are-mobilizing-under-trump)  
 [Eternal Fascism: Fourteen Ways of Looking at a Blackshirt By Umberto Eco](http://interglacial.com/pub/text/Umberto_Eco_-_Eternal_Fascism.html)  
